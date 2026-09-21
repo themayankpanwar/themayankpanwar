@@ -1,153 +1,172 @@
+<!-- =========================
+     MAYANK PANWAR — GITHUB PROFILE
+     Username: themayankpanwar
+     ========================= -->
+
 <div align="center">
 
-# ⚡ MAYANK PANWAR
+# 👋 Hey, I'm **Mayank Panwar**
 
-### `Full Stack Developer` • `India` • `Gaming Creator`
+### 💻 Full-Stack Developer • 🐍 Python • ☕ Java • 🎮 Game Development
 
 <p>
   <a href="https://github.com/themayankpanwar">
-    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-themayankpanwar-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="https://linkedin.com/in/mayank-panwar-dev">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Mayank%20Panwar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:mayankpanwar1311@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://instagram.com/themayank.panwar">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-themayank.panwar-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=themayankpanwar&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=themayankpanwar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## `> whoami`
+## 🚀 About Me
 
 ```text
-Mayank Panwar
-├── Frontend Developer
-├── Full Stack Developer
-├── Python Developer
-├── Game Development Learner
-└── Gaming Creator
+🎓 BCA Student
+💻 Full-Stack Developer
+🐍 Python & Flask Enthusiast
+☕ Java / Advanced Java Developer
+🌐 Web Development
+🎮 Game Development & Gaming
+🤖 Exploring AI-powered applications
+🛠️ Building practical projects and learning by doing
 ```
 
-> Building things, learning technologies, and turning ideas into projects.
+I'm a developer who enjoys turning ideas into real-world applications.
+
+I like working across the **frontend, backend, databases and APIs**, while continuously exploring new technologies and development workflows.
+
+> 💡 **Build → Break → Learn → Improve → Repeat.**
 
 ---
 
-## `// CURRENTLY_WORKING_ON`
+## 🔭 What I'm Working On
 
-<table>
-<tr>
-<td width="33%" align="center">
+| 🚀 Project        | 📝 Description                                  | 🔗                                                               |
+| ----------------- | ----------------------------------------------- | ---------------------------------------------------------------- |
+| **Navique**       | AI-powered travel planning project              | [View Project](https://github.com/themayankpanwar/Navique)       |
+| **FinTrack**      | Personal finance / financial management project | [View Project](https://github.com/themayankpanwar/FinTrack)      |
+| **Study Tracker** | Productivity and study tracking application     | [View Project](https://github.com/themayankpanwar/Study-Tracker) |
 
-### 🧭 Navique
+### 🌱 Currently Exploring
 
-AI-powered travel project.
-
-<br>
-
-<a href="https://github.com/themayankpanwar/Navique">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black" />
-</a>
-
-</td>
-
-<td width="33%" align="center">
-
-### 💰 FinTrack
-
-Financial tracking project.
-
-<br>
-
-<a href="https://github.com/themayankpanwar/FinTrack">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black" />
-</a>
-
-</td>
-
-<td width="33%" align="center">
-
-### 📚 Study Tracker
-
-Study tracking project.
-
-<br>
-
-<a href="https://github.com/themayankpanwar/Study-Tracker">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black" />
-</a>
-
-</td>
-</tr>
-</table>
+* 🎮 Game Development
+* 🤖 AI Integration
+* 🐍 Advanced Python
+* ☕ Advanced Java
+* 🌐 Full-Stack Development
+* 🐳 Docker & Deployment
+* 🐧 Linux
 
 ---
 
-# `01` — GITHUB ANALYTICS
+# 📊 GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/themayankpanwar">
-<img src="https://github-readme-stats.vercel.app/api?username=themayankpanwar&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark" height="180" alt="GitHub Statistics" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=themayankpanwar&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Mayank's GitHub Stats"/>
 </a>
 
 <a href="https://github.com/themayankpanwar">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=themayankpanwar&layout=compact&hide_border=true&theme=github_dark" height="180" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themayankpanwar&layout=compact&hide_border=true&langs_count=8" alt="Mayank's Top Languages"/>
 </a>
 
 </div>
 
 ---
 
-# `02` — CONTRIBUTION ACTIVITY
+## ⭐ GitHub Overview
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=themayankpanwar&theme=github-compact&hide_border=true&area=true" alt="Contribution Activity Graph" />
+<a href="https://github.com/themayankpanwar">
+<img src="https://img.shields.io/github/followers/themayankpanwar?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers"/>
+</a>
+
+<a href="https://github.com/themayankpanwar?tab=repositories">
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fthemayankpanwar&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github" alt="Public Repositories"/>
+</a>
+
+<a href="https://github.com/themayankpanwar">
+<img src="https://img.shields.io/github/stars/themayankpanwar?style=for-the-badge&logo=github&label=Profile%20Stars" alt="GitHub Stars"/>
+</a>
+
+<a href="https://github.com/themayankpanwar">
+<img src="https://img.shields.io/github/last-commit/themayankpanwar/Navique?style=for-the-badge&logo=git&label=Latest%20Project%20Commit" alt="Latest Commit"/>
+</a>
 
 </div>
 
 ---
 
-# `03` — CONTRIBUTION STREAK
+# 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=themayankpanwar&theme=github-dark-blue&hide_border=true" alt="Contribution Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=themayankpanwar&hide_border=true" alt="Mayank's GitHub Contribution Streak"/>
 
 </div>
 
 ---
 
-# `04` — GITHUB TROPHIES
+# 📈 Contribution Activity
+
+<div align="center">
+
+<a href="https://github.com/themayankpanwar">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=themayankpanwar&hide_border=true&area=true" alt="Mayank's GitHub Activity Graph"/>
+
+</a>
+
+</div>
+
+---
+
+# 🟩 GitHub Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=themayankpanwar&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area_color=1f6feb&area=true&hide_border=true" alt="GitHub Contribution Activity"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
 
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=themayankpanwar&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=themayankpanwar&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
 </a>
 
 </div>
 
 ---
 
-# `05` — FEATURED PROJECTS
+# 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/themayankpanwar/Navique">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=themayankpanwar&repo=Navique&theme=github_dark&hide_border=true" width="49%" alt="Navique Repository" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=themayankpanwar&repo=Navique&hide_border=true" alt="Navique"/>
 </a>
 
 <a href="https://github.com/themayankpanwar/FinTrack">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=themayankpanwar&repo=FinTrack&theme=github_dark&hide_border=true" width="49%" alt="FinTrack Repository" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=themayankpanwar&repo=FinTrack&hide_border=true" alt="FinTrack"/>
 </a>
 
 </div>
@@ -155,72 +174,147 @@ Study tracking project.
 <div align="center">
 
 <a href="https://github.com/themayankpanwar/Study-Tracker">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=themayankpanwar&repo=Study-Tracker&theme=github_dark&hide_border=true" width="49%" alt="Study Tracker Repository" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=themayankpanwar&repo=Study-Tracker&hide_border=true" alt="Study Tracker"/>
 </a>
 
 </div>
 
 ---
 
-# `06` — LANGUAGES & TOOLS
+# 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p align="left">
+
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" alt="Python"/>
+</a>
+
+<a href="https://www.java.com/">
+<img src="https://skillicons.dev/icons?i=java" alt="Java"/>
+</a>
+
+<a href="https://en.cppreference.com/w/c">
+<img src="https://skillicons.dev/icons?i=c" alt="C"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript"/>
+</a>
+
+</p>
+
+### 🌐 Frontend
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react" alt="Frontend Technologies"/>
+
+</p>
+
+### ⚙️ Backend
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,flask,django,nodejs,express,java" alt="Backend Technologies"/>
+
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql,firebase" alt="Database Technologies"/>
+
+</p>
+
+### ☁️ DevOps / Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws" alt="DevOps Tools"/>
+
+</p>
+
+### 🎮 Game Development
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=unity" alt="Unity"/>
+
+</p>
+
+---
+
+# 💡 Development Interests
 
 <div align="center">
 
-### AWS • C • CSS • Django • Docker • .NET • Express
-
-<img src="https://skillicons.dev/icons?i=aws,c,css,django,docker,dotnet,express" alt="AWS C CSS Django Docker .NET Express" />
-
-### Firebase • Flask • Git • HTML • Java • JavaScript • Linux
-
-<img src="https://skillicons.dev/icons?i=firebase,flask,git,html,java,javascript,linux" alt="Firebase Flask Git HTML Java JavaScript Linux" />
-
-### MySQL • Node.js • Oracle • Python • React • Unity
-
-<img src="https://skillicons.dev/icons?i=mysql,nodejs,oracle,python,react,unity" alt="MySQL Node.js Oracle Python React Unity" />
+| 🌐 Web Development | 🤖 AI & Automation | 🎮 Game Development |
+| :----------------: | :----------------: | :-----------------: |
+|      Frontend      |       AI APIs      |        Unity        |
+|       Backend      |       Python       |    Game Mechanics   |
+|      REST APIs     |     Automation     |       Gameplay      |
+|      Databases     |   AI Applications  | Interactive Systems |
 
 </div>
 
 ---
 
-# `07` — CURRENT FOCUS
+# 📚 Currently Learning
 
 <div align="center">
 
 ```text
-┌─────────────────────────────────────────┐
-│                                         │
-│          🎮 GAME DEVELOPMENT             │
-│                                         │
-│          Building • Learning             │
-│          Experimenting • Creating        │
-│                                         │
-└─────────────────────────────────────────┘
+Python              ███████████████████░   Advanced
+Java                ████████████████░░░░   Intermediate
+Web Development     ██████████████████░░   Advanced
+Flask               ████████████████░░░░   Intermediate
+Docker              ████████████░░░░░░░░   Learning
+Game Development    ██████████░░░░░░░░░░   Learning
+AI Integration      ████████████░░░░░░░░   Learning
+Linux               █████████████░░░░░░░   Learning
 ```
 
 </div>
 
 ---
 
-# `08` — CONNECT
+# 🤝 Open to Collaboration
+
+I'm interested in collaborating on projects involving:
+
+* 🌐 Full-Stack Web Applications
+* 🐍 Python Projects
+* ☕ Java / Advanced Java
+* 🤖 AI-powered applications
+* 🎮 Game Development
+* 🛠️ Developer Tools
+* 📚 Student / Open Source Projects
+
+If you're building something interesting, feel free to reach out! 🚀
+
+---
+
+# 📫 Let's Connect
 
 <div align="center">
 
 <a href="mailto:mayankpanwar1311@gmail.com">
-<img src="https://img.shields.io/badge/MAYANKPANWAR1311%40GMAIL.COM-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+<img src="https://img.shields.io/badge/Email-mayankpanwar1311%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<br><br>
-
 <a href="https://linkedin.com/in/mayank-panwar-dev">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+<img src="https://img.shields.io/badge/LinkedIn-Mayank%20Panwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://instagram.com/themayank.panwar">
-<img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+<img src="https://img.shields.io/badge/Instagram-@themayank.panwar-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 <a href="https://github.com/themayankpanwar">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/GitHub-themayankpanwar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
@@ -229,14 +323,10 @@ Study tracking project.
 
 <div align="center">
 
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### 💭 *"Code. Create. Learn. Repeat."*
 
-        CODE  •  CREATE  •  EXPLORE
+⭐ **If you find my projects interesting, consider giving them a star!**
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-### ⚡ Thanks for visiting my profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=footer" alt="Footer"/>
 
 </div>
