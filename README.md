@@ -1,332 +1,115 @@
-<!-- =========================
-     MAYANK PANWAR — GITHUB PROFILE
-     Username: themayankpanwar
-     ========================= -->
-
 <div align="center">
 
-# 👋 Hey, I'm **Mayank Panwar**
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · themayankpanwar</sub></p>
+<h1>Mayank Panwar</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Full-Stack Developer | Python &amp; Java | Web Development | Game Development | Building ideas into real-world applications.</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Jodhpur , Rajasthan , India · Building at Lachoo Memorial College of Science and Technology, Jodhpur</sub></p>
+<p><a href="https://github.com/themayankpanwar">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/232675523?u=bc2ed8cf01ee8ddd34b22d9d92fb80edca7bf446&amp;v=4" width="180" alt="Mayank Panwar GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-### 💻 Full-Stack Developer • 🐍 Python • ☕ Java • 🎮 Game Development
+<h2>What teams can evaluate quickly</h2>
 
-<p>
-  <a href="https://github.com/themayankpanwar">
-    <img src="https://img.shields.io/badge/GitHub-themayankpanwar-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/mayank-panwar-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-Mayank%20Panwar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:mayankpanwar1311@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://instagram.com/themayank.panwar">
-    <img src="https://img.shields.io/badge/Instagram-themayank.panwar-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Java · CSS · JavaScript</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>10 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>48 contributions · 15 active days</p></td>
+</tr>
+</table>
+
+<p><sub>Full-Stack Developer | Python &amp; Java | Web Development | Game Development | Building ideas into real-world applications.</sub></p>
+
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>10</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>48</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=themayankpanwar&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F232675523%3Fu%3Dbc2ed8cf01ee8ddd34b22d9d92fb80edca7bf446%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=themayankpanwar&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F232675523%3Fu%3Dbc2ed8cf01ee8ddd34b22d9d92fb80edca7bf446%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Mayank Panwar GitHub proof metrics" />
+</picture>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=themayankpanwar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-
-</div>
-
----
-
-## 🚀 About Me
-
-```text
-🎓 BCA Student
-💻 Full-Stack Developer
-🐍 Python & Flask Enthusiast
-☕ Java / Advanced Java Developer
-🌐 Web Development
-🎮 Game Development & Gaming
-🤖 Exploring AI-powered applications
-🛠️ Building practical projects and learning by doing
-```
-
-I'm a developer who enjoys turning ideas into real-world applications.
-
-I like working across the **frontend, backend, databases and APIs**, while continuously exploring new technologies and development workflows.
-
-> 💡 **Build → Break → Learn → Improve → Repeat.**
-
----
-
-## 🔭 What I'm Working On
-
-| 🚀 Project        | 📝 Description                                  | 🔗                                                               |
-| ----------------- | ----------------------------------------------- | ---------------------------------------------------------------- |
-| **Navique**       | AI-powered travel planning project              | [View Project](https://github.com/themayankpanwar/Navique)       |
-| **FinTrack**      | Personal finance / financial management project | [View Project](https://github.com/themayankpanwar/FinTrack)      |
-| **Study Tracker** | Productivity and study tracking application     | [View Project](https://github.com/themayankpanwar/Study-Tracker) |
-
-### 🌱 Currently Exploring
-
-* 🎮 Game Development
-* 🤖 AI Integration
-* 🐍 Advanced Python
-* ☕ Advanced Java
-* 🌐 Full-Stack Development
-* 🐳 Docker & Deployment
-* 🐧 Linux
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/themayankpanwar">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=themayankpanwar&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Mayank's GitHub Stats"/>
-</a>
-
-<a href="https://github.com/themayankpanwar">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themayankpanwar&layout=compact&hide_border=true&langs_count=8" alt="Mayank's Top Languages"/>
-</a>
-
-</div>
-
----
-
-## ⭐ GitHub Overview
-
-<div align="center">
-
-<a href="https://github.com/themayankpanwar">
-<img src="https://img.shields.io/github/followers/themayankpanwar?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers"/>
-</a>
-
-<a href="https://github.com/themayankpanwar?tab=repositories">
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fthemayankpanwar&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github" alt="Public Repositories"/>
-</a>
-
-<a href="https://github.com/themayankpanwar">
-<img src="https://img.shields.io/github/stars/themayankpanwar?style=for-the-badge&logo=github&label=Profile%20Stars" alt="GitHub Stars"/>
-</a>
-
-<a href="https://github.com/themayankpanwar">
-<img src="https://img.shields.io/github/last-commit/themayankpanwar/Navique?style=for-the-badge&logo=git&label=Latest%20Project%20Commit" alt="Latest Commit"/>
-</a>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=themayankpanwar&hide_border=true" alt="Mayank's GitHub Contribution Streak"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<a href="https://github.com/themayankpanwar">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=themayankpanwar&hide_border=true&area=true" alt="Mayank's GitHub Activity Graph"/>
-
-</a>
-
-</div>
-
----
-
-# 🟩 GitHub Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=themayankpanwar&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area_color=1f6feb&area=true&hide_border=true" alt="GitHub Contribution Activity"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=themayankpanwar&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
-</a>
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/themayankpanwar/Navique">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=themayankpanwar&repo=Navique&hide_border=true" alt="Navique"/>
-</a>
-
-<a href="https://github.com/themayankpanwar/FinTrack">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=themayankpanwar&repo=FinTrack&hide_border=true" alt="FinTrack"/>
-</a>
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/themayankpanwar/Study-Tracker">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=themayankpanwar&repo=Study-Tracker&hide_border=true" alt="Study Tracker"/>
-</a>
-
-</div>
-
----
-
-# 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p align="left">
-
-<a href="https://www.python.org/">
-<img src="https://skillicons.dev/icons?i=python" alt="Python"/>
-</a>
-
-<a href="https://www.java.com/">
-<img src="https://skillicons.dev/icons?i=java" alt="Java"/>
-</a>
-
-<a href="https://en.cppreference.com/w/c">
-<img src="https://skillicons.dev/icons?i=c" alt="C"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript"/>
-</a>
-
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=themayankpanwar&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F232675523%3Fu%3Dbc2ed8cf01ee8ddd34b22d9d92fb80edca7bf446%26v%3D4&repos=themayankpanwar%2FJobSense%2Cthemayankpanwar%2FNavique%2Cthemayankpanwar%2FStudy-Tracker%2Cthemayankpanwar%2FFinTrack&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=themayankpanwar&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F232675523%3Fu%3Dbc2ed8cf01ee8ddd34b22d9d92fb80edca7bf446%26v%3D4&repos=themayankpanwar%2FJobSense%2Cthemayankpanwar%2FNavique%2Cthemayankpanwar%2FStudy-Tracker%2Cthemayankpanwar%2FFinTrack&v=recruiter-projects-1&mode=dark" width="100%" alt="Mayank Panwar selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/themayankpanwar/JobSense">JobSense</a></h3>
+<p>A selected public project.</p>
+<p><sub>CSS · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/themayankpanwar/JobSense">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/themayankpanwar/Navique">Navique</a></h3><p>A selected public project.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/themayankpanwar/Study-Tracker">Study-Tracker</a></h3><p>A selected public project.</p><p><sub>HTML · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/themayankpanwar/FinTrack">FinTrack</a></h3><p>This project is based on advanced Java</p><p><sub>Java · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=themayankpanwar&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F232675523%3Fu%3Dbc2ed8cf01ee8ddd34b22d9d92fb80edca7bf446%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=themayankpanwar&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F232675523%3Fu%3Dbc2ed8cf01ee8ddd34b22d9d92fb80edca7bf446%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Mayank Panwar technology stack" />
+</picture>
 </p>
 
-### 🌐 Frontend
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>Java</strong><br /><sub>28% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>19% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>16% of public code</sub></td>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>15% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>12% of public code</sub></td>
+</tr>
+</table>
 
-<p align="left">
+<h2>Consistency signal</h2>
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react" alt="Frontend Technologies"/>
-
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=themayankpanwar&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F232675523%3Fu%3Dbc2ed8cf01ee8ddd34b22d9d92fb80edca7bf446%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=themayankpanwar&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F232675523%3Fu%3Dbc2ed8cf01ee8ddd34b22d9d92fb80edca7bf446%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Mayank Panwar contribution activity" />
+</picture>
 </p>
 
-### ⚙️ Backend
+<hr />
 
-<p align="left">
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/themayankpanwar">GitHub</a></td>
+</tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=python,flask,django,nodejs,express,java" alt="Backend Technologies"/>
-
-</p>
-
-### 🗄️ Databases
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=mysql,firebase" alt="Database Technologies"/>
-
-</p>
-
-### ☁️ DevOps / Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws" alt="DevOps Tools"/>
-
-</p>
-
-### 🎮 Game Development
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=unity" alt="Unity"/>
-
-</p>
-
----
-
-# 💡 Development Interests
-
-<div align="center">
-
-| 🌐 Web Development | 🤖 AI & Automation | 🎮 Game Development |
-| :----------------: | :----------------: | :-----------------: |
-|      Frontend      |       AI APIs      |        Unity        |
-|       Backend      |       Python       |    Game Mechanics   |
-|      REST APIs     |     Automation     |       Gameplay      |
-|      Databases     |   AI Applications  | Interactive Systems |
-
-</div>
-
----
-
-# 📚 Currently Learning
-
-<div align="center">
-
-```text
-Python              ███████████████████░   Advanced
-Java                ████████████████░░░░   Intermediate
-Web Development     ██████████████████░░   Advanced
-Flask               ████████████████░░░░   Intermediate
-Docker              ████████████░░░░░░░░   Learning
-Game Development    ██████████░░░░░░░░░░   Learning
-AI Integration      ████████████░░░░░░░░   Learning
-Linux               █████████████░░░░░░░   Learning
-```
-
-</div>
-
----
-
-# 🤝 Open to Collaboration
-
-I'm interested in collaborating on projects involving:
-
-* 🌐 Full-Stack Web Applications
-* 🐍 Python Projects
-* ☕ Java / Advanced Java
-* 🤖 AI-powered applications
-* 🎮 Game Development
-* 🛠️ Developer Tools
-* 📚 Student / Open Source Projects
-
-If you're building something interesting, feel free to reach out! 🚀
-
----
-
-# 📫 Let's Connect
-
-<div align="center">
-
-<a href="mailto:mayankpanwar1311@gmail.com">
-<img src="https://img.shields.io/badge/Email-mayankpanwar1311%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<a href="https://linkedin.com/in/mayank-panwar-dev">
-<img src="https://img.shields.io/badge/LinkedIn-Mayank%20Panwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://instagram.com/themayank.panwar">
-<img src="https://img.shields.io/badge/Instagram-@themayank.panwar-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
-<a href="https://github.com/themayankpanwar">
-<img src="https://img.shields.io/badge/GitHub-themayankpanwar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 *"Code. Create. Learn. Repeat."*
-
-⭐ **If you find my projects interesting, consider giving them a star!**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=footer" alt="Footer"/>
-
-</div>
+<p align="center"><sub>Mayank Panwar · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
