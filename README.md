@@ -1,6 +1,6 @@
 <div align="center">
 
-<img align="right" width="190" src="https://raw.githubusercontent.com/themayankpanwar/themayankpanwar/main/octopus.gif" alt="OCTOPUS mascot gently floating" />
+<img align="right" width="190" src="https://raw.githubusercontent.com/themayankpanwar/themayankpanwar/main/octopus_mascot_idle.gif" alt="OCTOPUS mascot gently floating" />
 
 # MAYANK PANWAR
 
