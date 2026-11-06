@@ -1,115 +1,291 @@
+<!--
+  OCTOPUS | MAYANK PANWAR
+  GitHub Profile README
+  Replace project placeholders with actual repository URLs.
+-->
+
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · themayankpanwar</sub></p>
-<h1>Mayank Panwar</h1>
-<h2>Frontend or full-stack engineer</h2>
-<p>Full-Stack Developer | Python &amp; Java | Web Development | Game Development | Building ideas into real-world applications.</p>
-<p><strong>● Building and sharing work in public</strong></p>
-<p><sub>Based in Jodhpur , Rajasthan , India · Building at Lachoo Memorial College of Science and Technology, Jodhpur</sub></p>
-<p><a href="https://github.com/themayankpanwar">GitHub</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/232675523?u=bc2ed8cf01ee8ddd34b22d9d92fb80edca7bf446&amp;v=4" width="180" alt="Mayank Panwar GitHub avatar" />
-</td>
-</tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:090B16,45:392A70,100:8B5CF6&text=OCTOPUS&fontColor=FFFFFF&fontSize=65&fontAlignY=40&desc=MAYANK%20PANWAR%20%7C%20DEVELOPER&descSize=17&descAlignY=62&animation=fadeIn" width="100%" />
+
+<br/>
+
+### Building ideas into digital experiences.
+
+**Full-Stack Developer · Python · Java · Web Development · Game Development**
+
+<br/>
+
+<a href="https://www.linkedin.com/in/mayank-panwar-dev">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/themayankpanwar">
+  <img src="https://img.shields.io/badge/GitHub-Follow-171923?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Turning+ideas+into+working+products.;Building+with+code+and+creativity.;Learning%2C+building%2C+and+evolving." />
+
 </div>
 
-<h2>What teams can evaluate quickly</h2>
+---
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Java · CSS · JavaScript</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>10 repositories · 0 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>48 contributions · 15 active days</p></td>
-</tr>
-</table>
+## `01` — About Me
 
-<p><sub>Full-Stack Developer | Python &amp; Java | Web Development | Game Development | Building ideas into real-world applications.</sub></p>
+```yaml
+name: Mayank Panwar
+alias: OCTOPUS
+role: Full-Stack Developer
+education: BCA Student
+location: Jodhpur, Rajasthan, India
 
-<h2>Proof at a glance</h2>
+interests:
+  - Full-Stack Development
+  - Python & Java Engineering
+  - Artificial Intelligence
+  - Game Development
+  - Cloud & Deployment
 
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>10</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>48</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
+currently_focused_on:
+  - Building real-world applications
+  - Improving software engineering skills
+  - Exploring AI-powered solutions
+```
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=themayankpanwar&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F232675523%3Fu%3Dbc2ed8cf01ee8ddd34b22d9d92fb80edca7bf446%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=themayankpanwar&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F232675523%3Fu%3Dbc2ed8cf01ee8ddd34b22d9d92fb80edca7bf446%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Mayank Panwar GitHub proof metrics" />
-</picture>
+I'm a developer who enjoys turning ideas into practical digital products. I work across frontend and backend technologies, experiment with emerging tools, and continuously explore ways to build better software.
+
+I believe in learning by building, solving real problems, and improving with every project.
+
+## `02` — Tech Stack
+
+**Languages**
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css" />
 </p>
 
-<h2>Selected work</h2>
+**Frontend & Backend**
 
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=themayankpanwar&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F232675523%3Fu%3Dbc2ed8cf01ee8ddd34b22d9d92fb80edca7bf446%26v%3D4&repos=themayankpanwar%2FJobSense%2Cthemayankpanwar%2FNavique%2Cthemayankpanwar%2FStudy-Tracker%2Cthemayankpanwar%2FFinTrack&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=themayankpanwar&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F232675523%3Fu%3Dbc2ed8cf01ee8ddd34b22d9d92fb80edca7bf446%26v%3D4&repos=themayankpanwar%2FJobSense%2Cthemayankpanwar%2FNavique%2Cthemayankpanwar%2FStudy-Tracker%2Cthemayankpanwar%2FFinTrack&v=recruiter-projects-1&mode=dark" width="100%" alt="Mayank Panwar selected projects" />
-</picture>
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/themayankpanwar/JobSense">JobSense</a></h3>
-<p>A selected public project.</p>
-<p><sub>CSS · ⭐ 0 · 🍴 0</sub></p>
-<p><a href="https://github.com/themayankpanwar/JobSense">Read the repository →</a></p>
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/themayankpanwar/Navique">Navique</a></h3><p>A selected public project.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/themayankpanwar/Study-Tracker">Study-Tracker</a></h3><p>A selected public project.</p><p><sub>HTML · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/themayankpanwar/FinTrack">FinTrack</a></h3><p>This project is based on advanced Java</p><p><sub>Java · ⭐ 0</sub></p></td>
-</tr>
-</table>
-
-<h2>Technical toolkit</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=themayankpanwar&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F232675523%3Fu%3Dbc2ed8cf01ee8ddd34b22d9d92fb80edca7bf446%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=themayankpanwar&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F232675523%3Fu%3Dbc2ed8cf01ee8ddd34b22d9d92fb80edca7bf446%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Mayank Panwar technology stack" />
-</picture>
+<p>
+<img src="https://skillicons.dev/icons?i=react,flask,fastapi,nodejs" />
 </p>
 
-<table width="100%">
-<tr>
-<td width="20%" align="center"><strong>Java</strong><br /><sub>28% of public code</sub></td>
-<td width="20%" align="center"><strong>CSS</strong><br /><sub>19% of public code</sub></td>
-<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>16% of public code</sub></td>
-<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>15% of public code</sub></td>
-<td width="20%" align="center"><strong>HTML</strong><br /><sub>12% of public code</sub></td>
-</tr>
-</table>
+**Databases & Tools**
 
-<h2>Consistency signal</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=themayankpanwar&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F232675523%3Fu%3Dbc2ed8cf01ee8ddd34b22d9d92fb80edca7bf446%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=themayankpanwar&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F232675523%3Fu%3Dbc2ed8cf01ee8ddd34b22d9d92fb80edca7bf446%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Mayank Panwar contribution activity" />
-</picture>
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,idea" />
 </p>
 
-<hr />
+**Cloud & Creative Technologies**
 
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/themayankpanwar">GitHub</a></td>
-</tr>
-</table>
+<p>
+<img src="https://skillicons.dev/icons?i=linux,docker,cloudflare,unreal" />
+</p>
 
-<p align="center"><sub>Mayank Panwar · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+## `03` — Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/themayankpanwar">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=themayankpanwar&repo=REPLACE_WITH_REPOSITORY_1&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/themayankpanwar">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=themayankpanwar&repo=REPLACE_WITH_REPOSITORY_2&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+> Replace these placeholders with your actual best repositories. Showcase quality, functionality and real contributions rather than every project you've created.
+
+## `04` — GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=themayankpanwar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themayankpanwar&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=themayankpanwar&theme=tokyonight&hide_border=true" />
+
+</div>
+
+## `05` — Beyond the Code
+
+- 🎓 Pursuing Bachelor of Computer Applications.
+- 💼 Experience with virtual internship and web development work.
+- 🤖 Interested in Generative AI and intelligent applications.
+- 🌐 Exploring cloud deployment and modern development workflows.
+- 🚀 Always looking for opportunities to learn, collaborate and build.
+
+## `06` — Let's Connect
+
+<div align="center">
+
+**Have an interesting idea or project? Let's build something together.**
+
+<a href="https://www.linkedin.com/in/mayank-panwar-dev">
+  <img src="https://img.shields.io/badge/LinkedIn-Mayank%20Panwar-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/themayankpanwar">
+  <img src="https://img.shields.io/badge/GitHub-OCTOPUS-171923?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:090B16&height=100&section=footer" width="100%" />
+
+**BUILD. CREATE. INNOVATE.**
+
+<sub>Designed with curiosity and crafted with code. 🐙</sub>
+
+</div><!--
+  OCTOPUS | MAYANK PANWAR
+  GitHub Profile README
+  Replace project placeholders with actual repository URLs.
+-->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:090B16,45:392A70,100:8B5CF6&text=OCTOPUS&fontColor=FFFFFF&fontSize=65&fontAlignY=40&desc=MAYANK%20PANWAR%20%7C%20DEVELOPER&descSize=17&descAlignY=62&animation=fadeIn" width="100%" />
+
+<br/>
+
+### Building ideas into digital experiences.
+
+**Full-Stack Developer · Python · Java · Web Development · Game Development**
+
+<br/>
+
+<a href="https://www.linkedin.com/in/mayank-panwar-dev">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/themayankpanwar">
+  <img src="https://img.shields.io/badge/GitHub-Follow-171923?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Turning+ideas+into+working+products.;Building+with+code+and+creativity.;Learning%2C+building%2C+and+evolving." />
+
+</div>
+
+---
+
+## `01` — About Me
+
+```yaml
+name: Mayank Panwar
+alias: OCTOPUS
+role: Full-Stack Developer
+education: BCA Student
+location: Jodhpur, Rajasthan, India
+
+interests:
+  - Full-Stack Development
+  - Python & Java Engineering
+  - Artificial Intelligence
+  - Game Development
+  - Cloud & Deployment
+
+currently_focused_on:
+  - Building real-world applications
+  - Improving software engineering skills
+  - Exploring AI-powered solutions
+```
+
+I'm a developer who enjoys turning ideas into practical digital products. I work across frontend and backend technologies, experiment with emerging tools, and continuously explore ways to build better software.
+
+I believe in learning by building, solving real problems, and improving with every project.
+
+## `02` — Tech Stack
+
+**Languages**
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css" />
+</p>
+
+**Frontend & Backend**
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,flask,fastapi,nodejs" />
+</p>
+
+**Databases & Tools**
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,idea" />
+</p>
+
+**Cloud & Creative Technologies**
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,docker,cloudflare,unreal" />
+</p>
+
+## `03` — Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/themayankpanwar">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=themayankpanwar&repo=REPLACE_WITH_REPOSITORY_1&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/themayankpanwar">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=themayankpanwar&repo=REPLACE_WITH_REPOSITORY_2&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+> Replace these placeholders with your actual best repositories. Showcase quality, functionality and real contributions rather than every project you've created.
+
+## `04` — GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=themayankpanwar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themayankpanwar&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=themayankpanwar&theme=tokyonight&hide_border=true" />
+
+</div>
+
+## `05` — Beyond the Code
+
+- 🎓 Pursuing Bachelor of Computer Applications.
+- 💼 Experience with virtual internship and web development work.
+- 🤖 Interested in Generative AI and intelligent applications.
+- 🌐 Exploring cloud deployment and modern development workflows.
+- 🚀 Always looking for opportunities to learn, collaborate and build.
+
+## `06` — Let's Connect
+
+<div align="center">
+
+**Have an interesting idea or project? Let's build something together.**
+
+<a href="https://www.linkedin.com/in/mayank-panwar-dev">
+  <img src="https://img.shields.io/badge/LinkedIn-Mayank%20Panwar-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/themayankpanwar">
+  <img src="https://img.shields.io/badge/GitHub-OCTOPUS-171923?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:090B16&height=100&section=footer" width="100%" />
+
+**BUILD. CREATE. INNOVATE.**
+
+<sub>Designed with curiosity and crafted with code. 🐙</sub>
+
+</div>
